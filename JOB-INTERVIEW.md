@@ -18,13 +18,7 @@ bla | bla | bla | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
+![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/ERD.png)
 
 ## 4. Arsitektur Sistem
 
