@@ -31,9 +31,14 @@ User experience theme:
 
 ## 2. User Story
 
-bla | bla | bla | bla
+sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Pengguna | Melihat semua product | Mendapatkan banyak piliha furnitu  | ⭐⭐⭐⭐
+Pengguna | Melihat detail furnitur | Bisa meliahat deskripsi lengkap furnitur  | ⭐⭐⭐⭐
+Pengguna | Menyimpan furnitur yang akan dibeli didalam keranjang | Dapat memilih kembali furnitur sebelum di checkout  | ⭐⭐⭐⭐
+Pengguna | Memilih jasa kirim | Bisa menyesuaikan dengan jasa kirim yang diinginkan  | ⭐⭐⭐
+Pengguna | Memilih Media Pembayaran | Bisa menyesuaikan payment yang dipunya  | ⭐⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
