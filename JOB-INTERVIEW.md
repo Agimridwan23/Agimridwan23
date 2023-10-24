@@ -30,8 +30,17 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+Landing Page 
+
+![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Landing%20Page.png?raw=true)
+
+Details Page
+
+![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Single%20Page.png?raw=true)
+
+Succsess Page
+
+![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Success%20Page.png?raw=true)
 
 ## 7. Demonstrasi Video
 
