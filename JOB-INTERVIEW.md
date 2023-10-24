@@ -8,17 +8,20 @@ FurniCraft menyediakan pengalaman belanja furnitur yang nyaman, praktis, dan ber
 
 ## 1.3. Branding
 
-- merk : FurniCraft
-- Tagline : "Fulfill your house with beautiful furniture"
-- campaign : Membuat Website sedrehana dimana penggunanya dapat dengan mudah mendokorsi ruangannya tanpa harus bepergian.
-- Target user :
+Merk : FurniCraft
+
+Tagline : "Fulfill your house with beautiful furniture"
+
+Campaign : Membuat Website sedrehana dimana penggunanya dapat dengan mudah mendokorsi ruangannya tanpa harus bepergian.
+
+Target user :
 - Orang-orang yang memiliki rumah atau apartemen dan ingin mendekorasi atau mengubah tampilan interior ruangan mereka dengan lebih baik.
 - Desainer interior atau profesional yang mencari sumber inspirasi atau alat bantu desain untuk proyek klien mereka.
 - Mereka yang mencari cara praktis untuk merancang ulang ruangan mereka tanpa menghabiskan waktu berlebihan atau biaya mahal.
 - Individu yang mencari inspirasi dekorasi interior yang segar dan ingin belajar lebih banyak tentang tren dan ide-ide dekorasi terbaru.
 - Mereka yang ingin mengganti dekorasi interior rumah mereka sesuai dengan musim atau perubahan tren tanpa harus menghadapi kerumitan yang berlebihan.
 
-- User experience theme:
+User experience theme:
 - Sederhana
 - Kreativitas
 - Kenyamanan
