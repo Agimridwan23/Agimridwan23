@@ -18,7 +18,7 @@ bla | bla | bla | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
-![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/ERD.png)
+![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/ERD.png?raw=true)
 
 ## 4. Arsitektur Sistem
 
