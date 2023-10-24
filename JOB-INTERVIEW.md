@@ -53,7 +53,14 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+- UI/UX Design : Figma
+- Web Server   : Laragon
+- Text Editor  : VS Code
+- Browser      : Chrome
+- Library      : Laravel Jetstream
+- Framework    : Laravel
+- Database     : MySQL
+  
 
 ## 6. Desain User Experience dan User Interface
 
