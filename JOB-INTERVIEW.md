@@ -33,7 +33,12 @@ User experience theme:
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-Pengguna | Melihat semua product | Mendapatkan banyak piliha furnitu  | ⭐⭐⭐⭐
+Admin | Mengakses data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
+Admin | Mengakses data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
+Admin | Upload Product  | Banyak product yang bisa di pilih user  | ⭐⭐⭐⭐⭐
+Admin | Edit Product  | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
+Admin | Hapus Product  | Bisa menghapus product | ⭐⭐⭐⭐⭐
+Pengguna | Melihat semua product | Mendapatkan banyak piliha furnitur  | ⭐⭐⭐⭐
 Pengguna | Melihat detail furnitur | Bisa meliahat deskripsi lengkap furnitur  | ⭐⭐⭐⭐
 Pengguna | Menyimpan furnitur yang akan dibeli didalam keranjang | Dapat memilih kembali furnitur sebelum di checkout  | ⭐⭐⭐⭐
 Pengguna | Memilih jasa kirim | Bisa menyesuaikan dengan jasa kirim yang diinginkan  | ⭐⭐⭐
