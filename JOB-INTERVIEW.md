@@ -25,7 +25,7 @@ User experience theme:
 - Sederhana
 - Kreativitas
 - Kenyamanan
-- warna : Bernuansa Modern dan Ceria White/Light Pink
+- Warna : Bernuansa Modern dan Ceria White/Light Pink
 
    
 
@@ -35,7 +35,7 @@ sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 Admin | Mengakses data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
 Admin | Mengakses data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
-Admin | Upload Product  | Banyak product yang bisa di pilih user  | ⭐⭐⭐⭐⭐
+Admin | Upload Product  | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
 Admin | Edit Product  | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
 Admin | Hapus Product  | Bisa menghapus product | ⭐⭐⭐⭐⭐
 Pengguna | Melihat semua product | Mendapatkan banyak piliha furnitur  | ⭐⭐⭐⭐
