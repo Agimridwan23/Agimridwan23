@@ -33,7 +33,7 @@ User experience theme:
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-Admin | Mengakses data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
+Admin | Mengelola data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
 Admin | Mengakses data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
 Admin | Upload Product  | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
 Admin | Edit Product  | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
