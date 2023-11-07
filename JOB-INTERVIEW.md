@@ -33,16 +33,32 @@ User experience theme:
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-Admin | Mengelola data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
-Admin | Mengakses data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
-Admin | Upload Product  | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
-Admin | Edit Product  | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
-Admin | Hapus Product  | Bisa menghapus product | ⭐⭐⭐⭐⭐
+Admin | Mengelola data user | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
+Admin | Mengelola data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
+Admin | Upload Product | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
+Admin | Edit Product | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
+Admin | Hapus Product | Bisa menghapus product | ⭐⭐⭐⭐⭐
+Admin | Mengelola Sistem Keamanan dan Enkripsi | Bisa menjaga integritas dan kerahasiaan data pelanggan | ⭐⭐⭐⭐⭐
+Admin | Mengelola Produk | Bisa memastikan katalog selalu terbaru dan sesuai | ⭐⭐⭐⭐⭐
+Admin | Mengelola Stok Produk |  Dapat menghindari penjualan produk yang sudah habis stok | ⭐⭐⭐⭐⭐
+Admin | Mengelola Ulasan Produk | Bisa menjaga kualitas ulasan dan mengatasi masalah jika ada | ⭐⭐⭐⭐⭐
+Admin | Mengelola Pesanan Pelanggan | Bisa memberikan pelayanan yang responsif dan memenuhi kebutuhan pelanggan | ⭐⭐⭐⭐⭐
+Admin | Mengelola Metode Pembayaran | Bisa memberikan beragam opsi pembayaran kepada pelanggan | ⭐⭐⭐⭐⭐
+Admin | Mengelola Pesan dan Notifikasi Pelanggan | Bisa memberikan informasi yang relevan dan penting kepada pelanggan | ⭐⭐⭐⭐⭐
+Admin | Mengelola Integrasi Sosial Media | Bisa mempromosikan produk dan berinteraksi dengan pelanggan melalui media sosial | ⭐⭐⭐⭐⭐
+Admin | Mengelola jasa pengiriman | Bisa memantau kinerja dan hubungan dengan masing-masing mitra pengiriman | ⭐⭐⭐⭐⭐
+Pengguna | Menjelajahi Furniture | Dapat menemukan furnitur yang sempurna sesuai yang diinginkan | ⭐⭐⭐⭐
 Pengguna | Melihat semua product | Mendapatkan banyak piliha furnitur  | ⭐⭐⭐⭐
-Pengguna | Melihat detail furnitur | Bisa meliahat deskripsi lengkap furnitur  | ⭐⭐⭐⭐
-Pengguna | Menyimpan furnitur yang akan dibeli didalam keranjang | Dapat memilih kembali furnitur sebelum di checkout  | ⭐⭐⭐⭐
-Pengguna | Memilih jasa kirim | Bisa menyesuaikan dengan jasa kirim yang diinginkan  | ⭐⭐⭐
-Pengguna | Memilih Media Pembayaran | Bisa menyesuaikan payment yang dipunya  | ⭐⭐⭐⭐⭐
+Pengguna | Memastikan Keamanan Data Pelanggan | Bisa merasa aman berbelanja di website tersebut | ⭐⭐⭐⭐⭐
+Pengguna | Melihat detail furnitur | Bisa meliahat deskripsi lengkap furnitur | ⭐⭐⭐⭐
+Pengguna | Menambahkan Item ke Keranjang Belanja | Dapat meninjau dan membelinya nanti. | ⭐⭐⭐⭐
+Pengguna | Memilih jasa kirim | Bisa menyesuaikan dengan jasa kirim yang diinginkan | ⭐⭐⭐
+Pengguna | Memilih Media Pembayaran | Bisa menyesuaikan payment yang dipunya | ⭐⭐⭐⭐⭐
+Pengguna | Menghubungkan dengan Media Sosial | Bisa mendapatkan rekomendasi dari teman-teman saya | ⭐⭐⭐
+Pengguna | Membandingkan Produk | Bisa memutuskan produk mana yang paling sesuai dengan kebutuhan saya | ⭐⭐⭐
+Pengguna | Mengetahui Ketersediaan Stok | Dapat menghindari pesanan yang harus menunggu lama. | ⭐⭐⭐
+Pengguna | Menerima Notifikasi Pembayaran dan Pengiriman |  Dapat merasa yakin bahwa pesanan saya sedang diproses dengan benar | ⭐⭐⭐
+Pengguna | Membuat dan melihat ulasan product| Dapat membuat keputusan yang didasarkan pada pengalaman pelanggan lain | ⭐⭐⭐
 
 
 ## 3. Struktur Data
@@ -80,6 +96,10 @@ Details Page
 Succsess Page
 
 ![img](https://github.com/Agimridwan23/Agimridwan23/blob/main/Doc/Success%20Page.png?raw=true)
+
+Full Disign⬇️⬇️
+
+https://www.figma.com/file/I6h994USSvunjYdLbXdZq1/FurniCraft?type=design&node-id=0%3A1&mode=design&t=yFSG4xsPHiWSLVXl-1
 
 ## 7. Demonstrasi Video
 
