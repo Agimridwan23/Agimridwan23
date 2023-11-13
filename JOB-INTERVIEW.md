@@ -77,7 +77,6 @@ flowchart TD
 - UI/UX Design : Figma
 - Web Server   : Laragon
 - Text Editor  : VS Code
-- Browser      : Chrome
 - Library      : Laravel Jetstream
 - Framework    : Laravel
 - Database     : MySQL
