@@ -80,6 +80,30 @@ flowchart TD
 - Library      : Laravel Jetstream
 - Framework    : Laravel
 - Database     : MySQL
+
+  1. **UI/UX Design: Figma**
+   - **Pengertian:** UI (User Interface) Design berkaitan dengan tata letak, visual, dan interaksi elemen-elemen pada antarmuka pengguna. UX (User Experience) Design menekankan pengalaman pengguna secara keseluruhan, termasuk kepuasan, aksesibilitas, dan keterlibatan.
+   - **Peran:** Figma adalah alat desain berbasis web yang memfasilitasi kolaborasi tim dalam membuat dan merancang UI/UX. Desainer menggunakan Figma untuk membuat prototipe, menggambarkan tata letak, dan memvisualisasikan pengalaman pengguna.
+
+2. **Web Server: Laragon**
+   - **Pengertian:** Web server adalah perangkat lunak yang menyediakan layanan hosting untuk situs web. Laragon khususnya adalah web server lokal yang menyediakan lingkungan pengembangan PHP dengan mudah.
+   - **Peran:** Laragon memungkinkan pengembang untuk membuat dan menguji situs web lokal sebelum diluncurkan secara publik. Ini memfasilitasi pengembangan dan pengujian tanpa ketergantungan pada server eksternal.
+
+3. **Text Editor: VS Code**
+   - **Pengertian:** Text editor adalah perangkat lunak untuk menulis dan mengedit kode. VS Code (Visual Studio Code) adalah text editor yang ringan dan kuat, dikembangkan oleh Microsoft.
+   - **Peran:** Pengembang menggunakan VS Code untuk menulis, mengedit, dan mengelola kode. Fitur-fitur seperti highlighting sintaksis, saran kode, dan ekstensi membuatnya menjadi pilihan populer di kalangan pengembang.
+
+4. **Library: Laravel Jetstream**
+   - **Pengertian:** Library adalah kumpulan modul atau fungsi-fungsi yang dapat digunakan untuk mempercepat pengembangan perangkat lunak. Laravel Jetstream adalah library yang menyediakan fitur-fitur umum untuk aplikasi web, seperti otentikasi pengguna, manajemen sesi, dan panel kontrol.
+   - **Peran:** Laravel Jetstream mempermudah pengembangan aplikasi dengan menyediakan struktur dasar dan fungsionalitas yang umum diperlukan, menghemat waktu dan usaha pengembang.
+
+5. **Framework: Laravel**
+   - **Pengertian:** Framework adalah kerangka kerja pengembangan perangkat lunak yang menyediakan aturan, konvensi, dan alat untuk mempercepat pembangunan aplikasi. Laravel adalah framework PHP yang populer untuk pengembangan web.
+   - **Peran:** Laravel menyediakan struktur dan alat untuk membangun aplikasi web secara efisien. Ini termasuk manajemen database, routing, dan fitur-fitur lainnya yang mendukung pengembangan yang bersih dan terstruktur.
+
+6. **Database: MySQL**
+   - **Pengertian:** Database adalah penyimpanan struktural untuk data. MySQL adalah sistem manajemen basis data (DBMS) relasional yang banyak digunakan.
+   - **Peran:** MySQL menyimpan dan mengelola data yang digunakan oleh aplikasi web. Ini memungkinkan aplikasi untuk menyimpan, mengambil, dan memanipulasi data secara efisien.
   
 
 ## 6. Desain User Experience dan User Interface
