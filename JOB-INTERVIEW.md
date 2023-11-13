@@ -81,7 +81,7 @@ flowchart TD
 - Framework    : Laravel
 - Database     : MySQL
 
-  1. **UI/UX Design: Figma**
+1. **UI/UX Design: Figma**
    - **Pengertian:** UI (User Interface) Design berkaitan dengan tata letak, visual, dan interaksi elemen-elemen pada antarmuka pengguna. UX (User Experience) Design menekankan pengalaman pengguna secara keseluruhan, termasuk kepuasan, aksesibilitas, dan keterlibatan.
    - **Peran:** Figma adalah alat desain berbasis web yang memfasilitasi kolaborasi tim dalam membuat dan merancang UI/UX. Desainer menggunakan Figma untuk membuat prototipe, menggambarkan tata letak, dan memvisualisasikan pengalaman pengguna.
 
