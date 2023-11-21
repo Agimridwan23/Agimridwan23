@@ -126,7 +126,9 @@ https://www.figma.com/file/I6h994USSvunjYdLbXdZq1/FurniCraft?type=design&node-id
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+Vidio ⬇️⬇️
+
+https://youtu.be/botXZ6Bc_rA?si=94iAf2bqaf_rZVzi
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
