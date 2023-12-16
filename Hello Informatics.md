@@ -3,6 +3,7 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/16/melibatkan-diri-dalam-keragaman-teknologi-jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
