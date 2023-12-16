@@ -1,6 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/16/computational-thinking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/16/melibatkan-diri-dalam-keragaman-teknologi-jenis-jenis-mesin-komputasi/
@@ -112,7 +113,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-https://wordpress.com/post/amarkaja.wordpress.com/54
+[https://wordpress.com/post/amarkaja.wordpress.com/54](https://amarkaja.wordpress.com/2023/12/16/melibatkan-diri-dalam-keragaman-teknologi-jenis-jenis-mesin-komputasi/)
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
