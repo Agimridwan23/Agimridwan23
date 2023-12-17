@@ -106,6 +106,7 @@ https://amarkaja.wordpress.com/
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+https://www.kaggle.com/agimridwan
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
