@@ -130,12 +130,15 @@ https://id.duolingo.com/profile/agimridwan
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://www.linkedin.com/in/agim-ridwan-8266732a4/
