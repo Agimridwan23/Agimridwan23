@@ -140,6 +140,7 @@ https://www.linkedin.com/in/agim-ridwan-8266732a4/
 https://github.com/Agimridwan23/Agimridwan23
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+https://drive.google.com/drive/folders/12PUzPcUprY-iHHaUs1Pav_J7utEA-z_A?usp=sharing
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
