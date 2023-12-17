@@ -19,11 +19,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/18/membuat-algoritma-terlihat-lebih-mudah-dan-kreatif-dengan-flowchart-di-figma/
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
-
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
-Referensi [1](https://scratch.mit.edu/)
+https://amarkaja.wordpress.com/2023/12/18/scratch-eksplorasi-kreatif-dalam-koding-yang-seru/
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
