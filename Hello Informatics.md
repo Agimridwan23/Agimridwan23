@@ -117,7 +117,8 @@ https://www.kaggle.com/agimridwan
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 [https://wordpress.com/post/amarkaja.wordpress.com/54](https://amarkaja.wordpress.com/2023/12/16/melibatkan-diri-dalam-keragaman-teknologi-jenis-jenis-mesin-komputasi/)
 
-## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐\
+https://amarkaja.wordpress.com/2023/12/17/petualangan-di-dunia-ilmu-komputer-mencari-jurnal-informatika-di-sciencedirec/
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
