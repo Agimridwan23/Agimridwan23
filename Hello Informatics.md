@@ -121,6 +121,7 @@ https://amarkaja.wordpress.com/2023/12/17/petualangan-di-dunia-ilmu-komputer-men
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://id.duolingo.com/profile/agimridwan
