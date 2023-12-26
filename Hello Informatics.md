@@ -104,6 +104,7 @@ https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-goo
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+https://huggingface.co/agimridwan
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 https://www.kaggle.com/agimridwan
