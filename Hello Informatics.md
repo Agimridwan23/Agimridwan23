@@ -119,6 +119,7 @@ https://www.kaggle.com/agimridwan
 https://amarkaja.wordpress.com/2023/12/17/petualangan-di-dunia-ilmu-komputer-mencari-jurnal-informatika-di-sciencedirec/
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/26/reviewe-presentasi-sidang-skripsi-teknik-informatika/
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
