@@ -7,6 +7,7 @@ https://amarkaja.wordpress.com/2023/12/16/computational-thinking/
 https://amarkaja.wordpress.com/2023/12/16/melibatkan-diri-dalam-keragaman-teknologi-jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
 
 ## Mencoba Console Sistem Operasi
 
@@ -96,6 +97,7 @@ https://amarkaja.wordpress.com/
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
@@ -109,8 +111,10 @@ https://www.kaggle.com/agimridwan
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 [https://wordpress.com/post/amarkaja.wordpress.com/54](https://amarkaja.wordpress.com/2023/12/16/melibatkan-diri-dalam-keragaman-teknologi-jenis-jenis-mesin-komputasi/)
