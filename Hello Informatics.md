@@ -151,6 +151,7 @@ https://github.com/Agimridwan23/Agimridwan23
 https://drive.google.com/drive/folders/12PUzPcUprY-iHHaUs1Pav_J7utEA-z_A?usp=sharing
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/26/code-the-hidden-language-of-computer-hardware-and-software/
 
 
 
