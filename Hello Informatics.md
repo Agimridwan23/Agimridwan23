@@ -64,6 +64,7 @@ https://youtu.be/UqiB9cJ61H4?si=AkU1ovgzUAGI-1H7
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/mengenal-dan-memahami-file-json-dalam-pengembangan-web/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
