@@ -29,6 +29,7 @@ https://amarkaja.wordpress.com/2023/12/18/scratch-eksplorasi-kreatif-dalam-kodin
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+https://youtu.be/UoG-lUrqYTs?si=U7uRlXSRmF6tk6np
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 https://youtu.be/UqiB9cJ61H4?si=AkU1ovgzUAGI-1H7
