@@ -25,6 +25,7 @@ https://amarkaja.wordpress.com/2023/12/18/membuat-algoritma-terlihat-lebih-mudah
 https://amarkaja.wordpress.com/2023/12/18/scratch-eksplorasi-kreatif-dalam-koding-yang-seru/
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+https://youtu.be/6lQOXangCBk?si=R1lNJaEYsfcwKtrr
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
