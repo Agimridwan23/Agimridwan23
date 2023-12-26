@@ -135,6 +135,7 @@ https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir
 https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/26/menelusuri-daya-tarik-profesi-full-stack-developer-di-roadmap-sh/
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
