@@ -7,6 +7,7 @@ https://amarkaja.wordpress.com/2023/12/16/computational-thinking/
 https://amarkaja.wordpress.com/2023/12/16/melibatkan-diri-dalam-keragaman-teknologi-jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+https://drive.google.com/drive/folders/1cyqKLwKD1fDabd3O8JLFpF8MOvpevmSg?usp=sharing
 https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
 
 ## Mencoba Console Sistem Operasi
