@@ -13,10 +13,10 @@ https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-goo
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+https://amarkaja.wordpress.com/2023/12/27/eksplorasi-console-sistem-operasi/
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/eksplorasi-console-sistem-operasi/
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/18/membuat-algoritma-terlihat-lebih-mudah-dan-kreatif-dengan-flowchart-di-figma/
