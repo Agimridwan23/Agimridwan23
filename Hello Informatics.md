@@ -59,8 +59,7 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 https://youtu.be/UqiB9cJ61H4?si=AkU1ovgzUAGI-1H7
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
+https://amarkaja.wordpress.com/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/27/mengenal-dan-memahami-file-json-dalam-pengembangan-web/
