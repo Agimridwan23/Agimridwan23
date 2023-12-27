@@ -46,12 +46,10 @@ https://youtu.be/6-D5cP0teKk?si=HnitpbsJNgBVdhin
 https://amarkaja.wordpress.com/2023/12/27/menjelaskan-penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+https://amarkaja.wordpress.com/2023/12/27/uniform-resource-locator-url/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+https://amarkaja.wordpress.com/2023/12/27/eksplorasi-informasi-teknis-dengan-nslookup-io/
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 https://youtu.be/UqiB9cJ61H4?si=AkU1ovgzUAGI-1H7
