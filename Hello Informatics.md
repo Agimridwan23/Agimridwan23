@@ -67,6 +67,7 @@ https://youtu.be/OCkQKMMNPk8?si=KQgC_V_ytbV863Rp
 https://youtu.be/OCkQKMMNPk8?si=KQgC_V_ytbV863Rp
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/http-request-dan-web-api-pake-postman/
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/27/fitur-hebat-chrome-devtools-untuk-pengembangan-web/
