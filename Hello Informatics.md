@@ -99,8 +99,10 @@ https://amarkaja.wordpress.com/
 https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/mencoba-data-visualization-dengan-tools-dan-code/
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/mencoba-data-visualization-dengan-tools-dan-code/
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://huggingface.co/agimridwan
