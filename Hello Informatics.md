@@ -111,6 +111,7 @@ https://huggingface.co/agimridwan
 https://www.kaggle.com/agimridwan
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+https://amarkaja.wordpress.com/2023/12/27/mqtt-api/
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
