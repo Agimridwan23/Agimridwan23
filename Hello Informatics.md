@@ -106,9 +106,11 @@ https://amarkaja.wordpress.com/2023/12/27/mencoba-data-visualization-dengan-tool
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://huggingface.co/agimridwan
+https://amarkaja.wordpress.com/2023/12/27/kisah-seru-di-kaggle-dan-hugging-face/
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 https://www.kaggle.com/agimridwan
+https://amarkaja.wordpress.com/2023/12/27/kisah-seru-di-kaggle-dan-hugging-face/
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 https://amarkaja.wordpress.com/2023/12/27/mqtt-api/
