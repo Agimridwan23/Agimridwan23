@@ -42,9 +42,6 @@ https://youtu.be/6-D5cP0teKk?si=HnitpbsJNgBVdhin
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 https://youtu.be/6-D5cP0teKk?si=HnitpbsJNgBVdhin
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
-
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/27/menjelaskan-penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 
