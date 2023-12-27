@@ -85,6 +85,7 @@ https://amarkaja.wordpress.com/
 https://amarkaja.wordpress.com/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/netlogo/
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 https://drive.google.com/drive/folders/1cyqKLwKD1fDabd3O8JLFpF8MOvpevmSg?usp=sharing
