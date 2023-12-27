@@ -38,9 +38,6 @@ https://youtu.be/UqiB9cJ61H4?si=AkU1ovgzUAGI-1H7
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://youtu.be/6-D5cP0teKk?si=HnitpbsJNgBVdhin
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 https://youtu.be/6-D5cP0teKk?si=HnitpbsJNgBVdhin
 
