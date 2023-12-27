@@ -132,8 +132,10 @@ https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://id.duolingo.com/profile/agimridwan
+https://amarkaja.wordpress.com/2023/12/27/belajar-bahasa-inggris-dengan-duolingo-dan-hellotalk/
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+https://amarkaja.wordpress.com/2023/12/27/belajar-bahasa-inggris-dengan-duolingo-dan-hellotalk/
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/17/melangkah-ke-era-digital-peluang-karir-it-dan-freelance-di-puncak-keberhasilan/
