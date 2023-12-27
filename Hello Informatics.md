@@ -92,8 +92,10 @@ https://amarkaja.wordpress.com/
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/web-tool-ai-discriminative-dan-generatif/
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://amarkaja.wordpress.com/2023/12/27/web-tool-ai-discriminative-dan-generatif/
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/26/explorasi-seru-data-science-dengan-google-colab-orc-csv-dan-machine-learning/
