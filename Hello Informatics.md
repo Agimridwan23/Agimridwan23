@@ -79,10 +79,10 @@ https://amarkaja.wordpress.com/2023/12/27/amazon-web-services-aws/
 https://amarkaja.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-https://amarkaja.wordpress.com/
+https://amarkaja.wordpress.com/2023/12/28/akses-konten-multimedia-dan-pengeditanimage-audio-video-menggunakan-canva-dan-figma/
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-https://amarkaja.wordpress.com/
+https://amarkaja.wordpress.com/2023/12/28/akses-konten-multimedia-dan-pengeditanimage-audio-video-menggunakan-canva-dan-figma/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 https://amarkaja.wordpress.com/2023/12/27/netlogo/
