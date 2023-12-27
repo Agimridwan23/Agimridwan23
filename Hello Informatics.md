@@ -67,7 +67,6 @@ https://amarkaja.wordpress.com/2023/12/27/mengenal-dan-memahami-file-json-dalam-
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
@@ -84,8 +83,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 https://amarkaja.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+https://amarkaja.wordpress.com/
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+https://amarkaja.wordpress.com/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
