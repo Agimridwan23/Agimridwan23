@@ -66,8 +66,10 @@ Referensi []
 https://amarkaja.wordpress.com/2023/12/27/mengenal-dan-memahami-file-json-dalam-pengembangan-web/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+https://youtu.be/OCkQKMMNPk8?si=KQgC_V_ytbV863Rp
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+https://youtu.be/OCkQKMMNPk8?si=KQgC_V_ytbV863Rp
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
