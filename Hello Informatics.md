@@ -90,6 +90,7 @@ https://amarkaja.wordpress.com/
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+https://drive.google.com/drive/folders/1cyqKLwKD1fDabd3O8JLFpF8MOvpevmSg?usp=sharing
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 https://amarkaja.wordpress.com/2023/12/27/web-tool-ai-discriminative-dan-generatif/
