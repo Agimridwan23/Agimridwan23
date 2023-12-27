@@ -28,6 +28,7 @@ https://amarkaja.wordpress.com/2023/12/18/scratch-eksplorasi-kreatif-dalam-kodin
 https://youtu.be/6lQOXangCBk?si=R1lNJaEYsfcwKtrr
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+https://youtu.be/UqiB9cJ61H4?si=AkU1ovgzUAGI-1H7
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 https://youtu.be/UoG-lUrqYTs?si=U7uRlXSRmF6tk6np
